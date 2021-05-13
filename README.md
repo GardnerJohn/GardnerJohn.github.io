@@ -1,1 +1,1 @@
-# GardnerJohn.github.io
+# My prepratory github pages site. (in progress)
